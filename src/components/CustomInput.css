@@ -1,0 +1,15 @@
+.inputDiv {
+  display: flex;
+  justify-content: center;
+}
+.inputField {
+  color: rgb(110, 109, 109);
+  width: auto;
+  padding: 10px;
+  font-size: large;
+}
+.label {
+  font-size: 20px;
+  color: white;
+  margin-right: 10px;
+}
